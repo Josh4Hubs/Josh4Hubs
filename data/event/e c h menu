@@ -1,0 +1,7 @@
+`Help Menu                                                   |
+Commands                                                    |
+.CTX CMD MSG1 MSG2 MSG3 MSG4                                |
+-Admin Event Create Commands-                               |
+ !a ec (type) (msg) (ans) (prize) > Admin Event Create      |
+ !a ech > Admin Event Create Help Menu                      |
+`
